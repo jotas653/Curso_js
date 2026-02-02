@@ -67,7 +67,7 @@ E para colocarmos uma string tudo em minuscula devemos fazer o seguinte toLowerC
 // console.log(justString.length) Para podermos ver o tamanho de uma string
 
 // let justString = "O rato roeu a roupa do rei de roma";
-// console.log(justString.slice(2,6))
+// console.log(justString.slice(2,6)) Para pegarmos as ultimas letras do nome colocamos - e passamos um numero
 
 // let justString = "O rato roeu a roupa do rei de roma";
 // console.log(justString.split(' '))
