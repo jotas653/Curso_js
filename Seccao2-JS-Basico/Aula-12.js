@@ -1,0 +1,53 @@
+// VARIAVEIS COM LET
+
+/*
+VARIAVEIS SERVEM PARA COLOCARMSO VALORES NA MEMORIA DO COMPUTADOR
+TEMOS DUAS MANEIRAS EM JS PARA CRAIARMOS VARIAVEIS, COM LET OU CONST E TEMOS A VAR TAMBEM
+MAS NÃO UTILIZAMOS A VAR PARA DECLARAR UMA VARIAVEL. USAMOS MAIS LET OU CONST
+PODEMOS DECLARAR UMA VARIAVEL E INICALIRZAMOS ONDE NOS QUISERMOS ELA
+SO PODEMOS MUDAR O VALOR DE UMA VARIAVEL QUANDO ELA FOR LET
+E NÃO PODEMOS REDECLARAR UMA VARIVAEL 
+NÃO PODEMOS CRIAR VARIAVEIS COM PALAVRAS RESERVADAS
+VARIAVEIS PRECISAM TER NOMES SIGNIFICATIVOS
+NÃO PODE CONTER ESPAÇOS OU TRAÇOS
+UTILIZAMOS A CAMELCASE
+CASE SENSITIVE
+NÃO UTILIZE VAR E SIM LET
+*/
+
+
+// let nome = 'Derek' // STRING
+
+
+// console.log(nome, 'nasceu em 1984')
+// console.log('Em 2000', nome, 'conheceu Maria')
+// console.log(nome, 'casou-se com Maria em 2012')
+// console.log('Maria teve 1 filho com', nome, 'em 2015')
+// console.log('O filho de', nome, 'se chama Eduardo')
+
+// let nome APENAS DECLAROU A VARIAVEL
+// nome = 'João' INICIALIZANDO A VARIAVEL
+// console.log(nome)
+// nome = 'Pedro' ALTERAMOS O VALOR DA VARIAVEL
+// console.log(nome)
+// let nome;  NÃO PODEMOS FAZER ISSO POIS ESTAMOS REDECLARANDO COM LET
+
+//NÃO PODEMOS DECLARAR VARIAVEIS DESSA MANEIRA
+// let if;
+// let else;
+
+// CRIANDO UMA VARIAVEL COM NOME SIGNIFICATIVO
+// let nameClient = 'Afonso'
+// console.log(nameClient)
+
+//NÃO PODE COMEÇAR UMA VARIVAEL COM NUMERO 
+// let 25;
+
+//UTILIZANDO O CAMELCASE
+// let nameCompletClient
+
+//CASO CASE SENSITIVE
+// let nomeCliente = 'João'
+// let nomecliente = 'Astolfo'
+// console.log(nomecliente)
+// console.log(nomeCliente)
