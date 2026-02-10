@@ -27,8 +27,7 @@ Para verificarmos se algo esta na instancia de um array devemos fazer o seguinte
 // const nome = 'João Pedro Moura' Pegar um indice de uma string
 // console.log(nome[3])
 
-
-//                 0       1        2 
+//                 0       1        2
 // const alunos = ['Luiz', 'Maria', 'João',]
 // console.log(alunos) //Acessando todos os indices
 // console.log(alunos[0]) //Acessando um indice por vez
@@ -56,7 +55,7 @@ Para verificarmos se algo esta na instancia de um array devemos fazer o seguinte
 //                0         1       2
 // const alunos = ['Luiz', 'Maria', 'João']
 // alunos.unshift('Luiza')
-// alunos.unshift('Fabio') 
+// alunos.unshift('Fabio')
 // console.log(alunos)
 
 //                0         1       2
